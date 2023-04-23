@@ -1,0 +1,129 @@
+/*.xxxxx-pzcx-kjpz-table >>> .el-table {
+  overflow: auto;
+}
+.xxxxx-pzcx-kjpz-table >>> .el-table__body-wrapper,
+.xxxxx-pzcx-kjpz-table >>> .el-table__header-wrapper,
+.xxxxx-pzcx-kjpz-table >>> .el-table__footer-wrapper {
+  overflow: visible;
+}
+.xxxxx-pzcx-kjpz-table >>> .el-table::after {
+  position: relative !important;
+}*/
+.el-card {
+    margin-top: 10px;
+}
+
+.el-form-item__label {
+    /*padding-right: 8px;*/
+    font-size: 12px;
+}
+
+.btn {
+    margin-left: 1245px;
+}
+
+.table-card {
+    height: 530px;
+}
+
+.el-input {
+    --el-input-focus-border-color: #3b3b8d !important;
+    --el-input-hover-border-color: #3b3b8d !important;
+}
+
+.el-input__wrapper {
+    border-radius: 0 !important;
+}
+
+.el-button.is-plain {
+    --el-button-hover-text-color: #fff !important;
+    --el-button-hover-bg-color: orange !important;
+    --el-button-hover-border-color: orange !important;
+}
+
+.el-button {
+    border-radius: 0;
+}
+
+.search {
+    background-color: #3b3b8d;
+    color: #fff;
+}
+
+.table-card .tabBtn {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.table-card .tabBtn .iconfont {
+    margin-right: 5px;
+}
+
+#itemName .el-form-item__label {
+    padding-right: 8px !important;
+}
+
+.add {
+    border: none;
+    /*margin-bottom: 20px;*/
+}
+
+.add:hover {
+    background-color: orange;
+}
+
+.el-table a {
+    color: #3b3b8d;
+    margin: 0px 5px;
+}
+
+[data-v-49cb56e8] .el-form-item__label {
+    padding: 0px;
+}
+
+.el-select .el-input__wrapper {
+    width: 177px;
+}
+
+.el-select {
+    --el-select-border-color-hover: #3b3b8d;
+    --el-select-input-focus-border-color: #3b3b8d
+}
+
+.el-date-editor {
+    --el-input-hover-border-color: #3b3b8d;
+    --el-input-focus-border-color: #3b3b8d;
+    /*--el-date-editor-width: 177px;*/
+}
+
+.el-form--label-left .el-form-item__label {
+    justify-content: end;
+}
+
+.el-table .cell {
+    color: #333;
+    font-size: 12px;
+    text-align: center;
+}
+
+.el-table__footer-wrapper tbody td.el-table__cell, .el-table__header-wrapper tbody td.el-table__cell {
+    background: #FAFAFA;
+}
+
+.el-table {
+    --el-table-row-hover-bg-color: #dddfeb;
+    --el-table-bg-color: #fdfdfd
+}
+
+.search[data-v-49cb56e8]:hover {
+    background: orange;
+}
+.el-form-item .searchBtn {
+    width: 44px;
+    height: 32px;
+    background: #5252aa;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+}

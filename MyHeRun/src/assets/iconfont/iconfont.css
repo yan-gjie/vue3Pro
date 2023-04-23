@@ -1,0 +1,159 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2935320 */
+  src: url('iconfont.woff2?t=1657799791475') format('woff2'),
+       url('iconfont.woff?t=1657799791475') format('woff'),
+       url('iconfont.ttf?t=1657799791475') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hr-arrow-down:before {
+  content: "\e764";
+}
+
+.hr-arrow-right:before {
+  content: "\e763";
+}
+
+.hr-download-app:before {
+  content: "\e75f";
+}
+
+.hr-shezhi:before {
+  content: "\e70f";
+}
+
+.hr-cross-mark:before {
+  content: "\e75d";
+}
+
+.hr-directsale:before {
+  content: "\e759";
+}
+
+.hr-arrow-left:before {
+  content: "\e743";
+}
+
+.hr-lock-db:before {
+  content: "\e742";
+}
+
+.hr-show-side:before {
+  content: "\e737";
+}
+
+.hr-hide-side:before {
+  content: "\e738";
+}
+
+.hr-sms-code:before {
+  content: "\e735";
+}
+
+.hr-phone:before {
+  content: "\e736";
+}
+
+.hr-lock:before {
+  content: "\e734";
+}
+
+.hr-user:before {
+  content: "\e733";
+}
+
+.hr-setting:before {
+  content: "\e731";
+}
+
+.hr-info:before {
+  content: "\e730";
+}
+
+.hr-product:before {
+  content: "\e72f";
+}
+
+.hr-report:before {
+  content: "\e72e";
+}
+
+.hr-finance:before {
+  content: "\e72d";
+}
+
+.hr-production:before {
+  content: "\e72c";
+}
+
+.hr-stock:before {
+  content: "\e72b";
+}
+
+.hr-purchase:before {
+  content: "\e72a";
+}
+
+.hr-sale:before {
+  content: "\e729";
+}
+
+.hr-home:before {
+  content: "\e728";
+}
+
+.hr-disable:before {
+  content: "\e726";
+}
+
+.hr-checkMark:before {
+  content: "\e725";
+}
+
+.hr-address:before {
+  content: "\e724";
+}
+
+.hr-back:before {
+  content: "\e723";
+}
+
+.hr-add:before {
+  content: "\e721";
+}
+
+.hr-subtractWithCircle:before {
+  content: "\e720";
+}
+
+.hr-delete:before {
+  content: "\e71f";
+}
+
+.hr-addWithCircle:before {
+  content: "\e71e";
+}
+
+.hr-download:before {
+  content: "\e71d";
+}
+
+.hr-upload:before {
+  content: "\e71c";
+}
+
+.hr-reset:before {
+  content: "\e71b";
+}
+
+.hr-search:before {
+  content: "\e71a";
+}
+

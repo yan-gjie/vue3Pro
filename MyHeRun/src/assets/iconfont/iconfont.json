@@ -1,0 +1,261 @@
+{
+  "id": "2935320",
+  "name": "he-run-erp",
+  "font_family": "iconfont",
+  "css_prefix_text": "hr-",
+  "description": "禾润ERP项目",
+  "glyphs": [
+    {
+      "icon_id": "30599136",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "30599000",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "30507510",
+      "name": "download-app",
+      "font_class": "download-app",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "3456457",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "28805779",
+      "name": "cross-mark",
+      "font_class": "cross-mark",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    },
+    {
+      "icon_id": "28018593",
+      "name": "hr-directsale",
+      "font_class": "directsale",
+      "unicode": "e759",
+      "unicode_decimal": 59225
+    },
+    {
+      "icon_id": "27184906",
+      "name": "arrow-left",
+      "font_class": "arrow-left",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "27182828",
+      "name": "lock-db",
+      "font_class": "lock-db",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "26207847",
+      "name": "show-side",
+      "font_class": "show-side",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "26207812",
+      "name": "hide-side",
+      "font_class": "hide-side",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "26201738",
+      "name": "sms-code",
+      "font_class": "sms-code",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "26201739",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "26195962",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "26195961",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "26096515",
+      "name": "setting",
+      "font_class": "setting",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "26096503",
+      "name": "data",
+      "font_class": "info",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "26096467",
+      "name": "product",
+      "font_class": "product",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    },
+    {
+      "icon_id": "26096430",
+      "name": "report",
+      "font_class": "report",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "26096399",
+      "name": "finance",
+      "font_class": "finance",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "26096382",
+      "name": "production",
+      "font_class": "production",
+      "unicode": "e72c",
+      "unicode_decimal": 59180
+    },
+    {
+      "icon_id": "26096350",
+      "name": "10-4库存",
+      "font_class": "stock",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    },
+    {
+      "icon_id": "26096325",
+      "name": "purchase",
+      "font_class": "purchase",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "26096274",
+      "name": "sale",
+      "font_class": "sale",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "26096223",
+      "name": "10-1首页",
+      "font_class": "home",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "25905550",
+      "name": "stop",
+      "font_class": "disable",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "25819472",
+      "name": "对号",
+      "font_class": "checkMark",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "25774903",
+      "name": "address",
+      "font_class": "address",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    },
+    {
+      "icon_id": "25758874",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "25739888",
+      "name": "added",
+      "font_class": "add",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "25739838",
+      "name": "减",
+      "font_class": "subtractWithCircle",
+      "unicode": "e720",
+      "unicode_decimal": 59168
+    },
+    {
+      "icon_id": "25739834",
+      "name": "删除",
+      "font_class": "delete",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "25739821",
+      "name": "加",
+      "font_class": "addWithCircle",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "25738116",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "25738115",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "25737860",
+      "name": "reset",
+      "font_class": "reset",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "25737837",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e71a",
+      "unicode_decimal": 59162
+    }
+  ]
+}
